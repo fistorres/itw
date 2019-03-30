@@ -1,0 +1,33 @@
+<DOCTYPE HTML/>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="CSS.css" rel="stylesheet"> 
+
+	
+</head>
+	<div class="head ">
+						<img src= "robot.png"
+						height="160"
+						width="450"
+						alt= "Image of Robot Turtles logo, wich says Robot Turtles"
+						title = "logo robot turtles">
+	</div>
+	
+   <nav>
+    <a href="Home.html" class="">Play
+	<img src = frog.png alt = "turtle ilustraion from game"> 
+	</a>
+	<a href="Rules.html" class="right">HOW TO PLAY</a>
+	<a href="Buy.html" class="right">BUY</a>
+    <a href="Profile.html" class="right">
+		<img src= user.png alt="User icon"</a>
+  </nav>
+  
+  
+ <footer>
+  <a href="Help.html"> 
+	<img src= help.png alt="Question mark image">
+	</a>
+  <p> CopyRight RobotTurtles FCUL ITW </p>
+	</footer>
